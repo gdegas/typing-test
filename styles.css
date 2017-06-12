@@ -9,4 +9,13 @@ p {
 
 .current {
   font-size: 2rem;
+  font-weight: bold;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
 }
