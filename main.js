@@ -19,6 +19,7 @@ var $current = document.querySelector('span')
 $current.classList.add('current')
 
 
+
 //create event listener for keypress
 document.addEventListener('keypress',function(event) {
 //If else statement to run if user types right or wrong keypress
@@ -31,3 +32,4 @@ document.addEventListener('keypress',function(event) {
   else {}
   }
 )
+
