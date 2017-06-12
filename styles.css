@@ -1,0 +1,12 @@
+.title,
+.phrase {
+  text-align: center;
+}
+
+p {
+  font-size: 23px;
+}
+
+.current {
+  font-size: 2rem;
+}
